@@ -1,4 +1,4 @@
-📊 Sample Superstore Sales Analysis – Power BI Dashboard
+📊 Sample Superstore Sales Analysis – Power BI Report
 
 This project demonstrates an interactive sales analysis dashboard built in Power BI using the Sample Superstore dataset. The objective was to transform raw sales data into actionable insights, helping stakeholders understand performance trends, regional contributions, and profitability drivers.
 
