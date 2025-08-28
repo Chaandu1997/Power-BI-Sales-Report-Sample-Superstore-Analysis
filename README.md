@@ -2,7 +2,7 @@
 
 This project demonstrates an interactive sales analysis dashboard built in Power BI using the Sample Superstore dataset. The objective was to transform raw sales data into actionable insights, helping stakeholders understand performance trends, regional contributions, and profitability drivers.
 
-🔎 Key Insights from the Dashboard:
+🔎 Key Insights from the Report:
 
 KPIs at a Glance: Total Profit, Sales, Quantity, Discounts, and Order Counts displayed through KPI cards.
 
@@ -28,7 +28,7 @@ Advanced Visuals: KPI cards, bar charts, donut charts, line graphs, and gauge ch
 
 📂 Repository Includes:
 
-📽️ Demo Video – Walkthrough of the dashboard.
+📽️ Demo Video – Walkthrough of the Report.
 
 📊 Dataset – Sample Superstore dataset used for analysis.
 
